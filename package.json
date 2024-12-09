@@ -1,0 +1,18 @@
+{
+  "name": "treino-cursodev",
+  "version": "1.0.0",
+  "description": "Esse repositorio e para fazer o curso do Felipe Dechamps o curso .DEV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "install": "^0.13.0",
+    "next": "^13.1.6",
+    "npm": "^10.9.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
