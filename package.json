@@ -4,7 +4,7 @@
   "description": "Esse repositorio e para fazer o curso do Felipe Dechamps o curso .DEV",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
